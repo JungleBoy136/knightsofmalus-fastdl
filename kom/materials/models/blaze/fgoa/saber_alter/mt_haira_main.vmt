@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/blaze/fgoa/saber_alter/mt_hairA_main"
+	"$bumpmap" "models/blaze/fgoa/saber_alter/mt_hairA_mainN"
+
+//	"$ambientocclusion" "0"
+
+	"$phong" "1"
+	"$phongexponent" "14"
+	"$phongexponenttexture" "models/blaze/fgoa/saber_alter/shared/green"
+	"$phongboost" "9.9934895"
+	"$phongfresnelranges" "[0.05 0.115 0.945]"
+	"$phongalbedotint" "1"
+	"$lightwarptexture" "models/blaze/fgoa/saber_alter/shared/hairlw2"
+}

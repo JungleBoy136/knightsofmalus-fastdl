@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Models/RE4_Leon_Jacket/pl0012"
+	"$nocull" 1
+}

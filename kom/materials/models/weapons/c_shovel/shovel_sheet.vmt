@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$BaseTexture "models/weapons/c_shovel/shovel"
+$BumpMap "models/weapons/c_shovel/shovel_normal"
+
+$EnvMap ENV_CUBEMAP
+$EnvMapTint "[.5 .5 .5]"
+$EnvMapFresnel 1
+$NormalMapAlphaEnvMapMask 1
+
+$Phong 1
+$PhongBoost 1
+$PhongExponent 9
+$PhongFresnelRanges "[0 .5 1]"
+}

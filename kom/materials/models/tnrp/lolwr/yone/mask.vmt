@@ -1,0 +1,59 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tnrp/lolwr/yone/mask"
+	"bumpmap" "models/tnrp/lolwr/yone/mask_n"
+
+	"$translucent" "1"
+	"$phong" "1"
+	"$lightwarptexture" "models/tnrp/lolwr/yone/toon_all"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "2"
+
+	"$emissiveBlendEnabled"     "1"
+	"$emissiveBlendTexture" "models/tnrp/lolwr/yone/null"
+	"$emissiveBlendBaseTexture" "models/tnrp/lolwr/yone/mask_em"
+	"$emissiveBlendFlowTexture" "models/tnrp/lolwr/yone/null"
+	"$emissiveBlendTint"        "[0.3 0.3 0.3]"
+	"$emissiveBlendStrength" "1"
+	"$emissiveBlendScrollVector" "[0.1 0.12]"
+
+	"$time" "0"
+	"Proxies"
+	{
+		"CurrentTime"
+		{
+			"resultVar" "$time"
+		}
+		
+		"Sine"
+		{
+            "sineperiod" 5
+            "sinemin" 0.2
+			"sinemax" 0.6
+			"timeoffset" 0
+            "resultVar" "$emissiveBlendTint[0]"
+		}
+		
+		"Sine"
+		{
+            "sineperiod" 5
+            "sinemin" 0.2
+			"sinemax" 0.6
+			"timeoffset" 0
+            "resultVar" "$emissiveBlendTint[1]"
+		}
+		
+		"Sine"
+		{
+            "sineperiod" 5
+            "sinemin" 0.2
+			"sinemax" 0.6
+			"timeoffset" 0
+            "resultVar" "$emissiveBlendTint[2]"
+		}		
+	}
+
+
+
+}

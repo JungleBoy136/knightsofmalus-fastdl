@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/cirno/tr03"
+
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/player/cirno/shader/phong_exp"
+	"$phongfresnelranges"	"[.2 .2 5]"
+
+	"$lightwarptexture" "models/player/cirno/shader/cartoon_shader"
+
+	"$halflambert" "1"	
+	"$AmbientOcclusion" "0"	
+	"$nocull" "1"
+	"$nodecal" "1"
+	"$alphatest" "1"
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "4"
+}

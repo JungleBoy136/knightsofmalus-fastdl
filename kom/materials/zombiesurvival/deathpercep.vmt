@@ -1,0 +1,7 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture" "zombiesurvival/deathpercep"
+	"$model" "1"
+	"$halflambert" "1"
+}

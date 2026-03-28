@@ -1,0 +1,8 @@
+"Unlitgeneric"
+{
+    "$basetexture" "models/Cirno/Morph_d"
+    "$lightwarptexture" "models/Cirno/neptunialw"
+    "$alphatest" "1"
+    "$halflambert" "1"
+    "$nocull" "1"
+}
