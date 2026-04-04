@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/petaly/peter_griffin_textures/gold"
-	"$nocull" 1
-	"$color2"			"[0.875 0.875 0.875]"
-	"$lightwarptexture"	"models/petaly/peter_griffin_textures/celshader"
-}
-

@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/galunga/skinsteve/skin02"
-	"$bumpmap" "null-bumpmap"
-	"$nocull" "1"
-	"$alphatest" "1"
-}

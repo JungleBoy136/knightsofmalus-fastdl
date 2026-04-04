@@ -1,5 +1,0 @@
-"VertexlitGeneric"
-{
-	"$no_draw" "1"
-	"$translucent" "1" //disables shadow
-}

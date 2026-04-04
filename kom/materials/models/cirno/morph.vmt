@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-    "$basetexture" "models/Cirno/Morph_d"
-    "$lightwarptexture" "models/Cirno/neptunialw"
-    "$translucent" "1"
-    "$halflambert" "1"
-    "$nocull" "1"
-}

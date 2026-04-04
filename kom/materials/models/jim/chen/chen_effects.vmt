@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/jim/chen/Chen_effects"
-	"$translucent" 1
-	"$nocull" 1
-}
